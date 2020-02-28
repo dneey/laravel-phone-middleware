@@ -1,6 +1,6 @@
 <?php
 
-namespace Yarteyd\PhoneMiddleware;
+namespace Dneey\PhoneMiddleware;
 
 use Closure;
 use Illuminate\Support\Str;
