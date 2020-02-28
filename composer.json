@@ -1,6 +1,6 @@
 {
     "name": "dneey/laravel-phone-middleware",
-    "description": "Using laravel phone package, converts all phone numbers passed to international format without the + prefixes and appends phon ecountry code to request.",
+    "description": "Easily convert all phone numbers to international format without the '+' prefix.",
     "type": "library",
     "require": {
         "propaganistas/laravel-phone": "^4.2"
