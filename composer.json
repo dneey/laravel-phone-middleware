@@ -1,0 +1,19 @@
+{
+    "name": "yarteyd/phone-middleware",
+    "description": "Using laravel phone package, converts all phone numbers passed to international format without the + prefixes and appends phon ecountry code to request.",
+    "type": "library",
+    "require": {
+        "propaganistas/laravel-phone": "^4.2"
+    },
+    "authors": [
+        {
+            "name": "David Nee Yartey",
+            "email": "yarteyd@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yarteyd\\PhoneMiddleware\\": "src/"
+        }
+    }
+}
