@@ -1,5 +1,5 @@
 {
-    "name": "yarteyd/phone-middleware",
+    "name": "dneey/laravel-phone-middleware",
     "description": "Using laravel phone package, converts all phone numbers passed to international format without the + prefixes and appends phon ecountry code to request.",
     "type": "library",
     "require": {
